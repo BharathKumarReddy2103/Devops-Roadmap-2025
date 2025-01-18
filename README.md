@@ -2,11 +2,11 @@
 
 Welcome to the DevOps Roadmap 2025 repository This guide is designed to help aspiring and experienced DevOps Engineers stay up-to-date with industry trends, learn new skills, and navigate their career paths effectively.
 
-📋 What is DevOps Roadmap 2025?
+📋 **What is DevOps Roadmap 2025**?
 
 This repository provides a comprehensive roadmap for becoming a successful DevOps Engineer in 2025. It includes the latest tools, technologies, and practices essential for modern DevOps workflows. Whether you're a beginner or an experienced professional, this roadmap will guide you step-by-step.
 
-🛠️ Key Topics Covered
+🛠️ **Key Topics Covered**
 
 1. Linux and Networking Basics
 
@@ -66,7 +66,7 @@ Job Search Strategies
 
 Interview Preparation
 
-🎯 Why Follow This Roadmap?
+🎯 **Why Follow This Roadmap?**
 
 Stay current with modern tools and practices.
 
@@ -76,7 +76,7 @@ Learn how to integrate automation, scalability, and security in real-world proje
 
 Gain insights into trending technologies for 2025 and beyond.
 
-💡 How to Use This Repository
+💡 **How to Use This Repository**
 
 1. Clone this repository:
 
@@ -88,7 +88,7 @@ git clone https://github.com/yourusername/DevOps-Roadmap-2025.git
 
 4. Contribute to this repository by sharing knowledge and improving content.
 
-🤝 Contributions Welcome
+🤝 **Contributions Welcome**
 
 Feel free to open an issue or submit a pull request for:
 
@@ -105,6 +105,6 @@ Check the CONTRIBUTING.md file for more details.
 
 LinkedIn: www.linkedin.com/in/bharath-kumar-reddy2103
 
-🌟 Show Your Support
+🌟 **Show Your Support**
 
 If you find this roadmap useful, please give this repository a ⭐ and share it with your network!
