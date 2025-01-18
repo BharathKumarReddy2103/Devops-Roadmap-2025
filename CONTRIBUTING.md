@@ -32,16 +32,6 @@ Submit scripts or automation projects related to DevOps workflows.
 
 Translate the roadmap into other languages to make it accessible to a wider audience.
 
-📂 Repository Structure
-
-Before contributing, familiarize yourself with the repository structure:
-
-DevOps-Roadmap-2025/
-├── Roadmap/
-├── Tools/
-├── Resources/
-└── Images/
-
 Guidelines:
 
 Place roadmap updates in the Roadmap/ directory.
