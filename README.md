@@ -56,21 +56,21 @@ This repository provides a comprehensive roadmap for becoming a successful DevOp
 
    Prometheus, Grafana, ELK Stack
 
-  Application Performance Monitoring (APM)
+   Application Performance Monitoring (APM)
 
 10. Security and Compliance
 
-   DevSecOps Practices
+    DevSecOps Practices
 
-   Vulnerability Scanning Tools
+    Vulnerability Scanning Tools
 
 11. Career Guidance
 
-  Certifications (AWS, CKA, etc.)
+    Certifications (AWS, CKA, etc.)
 
-  Job Search Strategies
+    Job Search Strategies
 
-  Interview Preparation
+    Interview Preparation
 
 🎯 **Why Follow This Roadmap?**
 
