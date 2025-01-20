@@ -10,61 +10,61 @@ This repository provides a comprehensive roadmap for becoming a successful DevOp
 
 1. Linux and Networking Basics
 
-Linux OS Fundamentals
+   Linux OS Fundamentals
 
-File System Management
+   File System Management
 
-Networking Concepts (TCP/IP, DNS, VPN)
+   Networking Concepts (TCP/IP, DNS, VPN)
 
 2. Version Control Systems
 
-Git (Commands and Workflows)
+   Git (Commands and Workflows)
 
-GitHub, GitLab, and Bitbucket
+   GitHub, GitLab, and Bitbucket
 
 3. Scripting and Programming
 
-Python for Automation
+   Python for Automation
 
-Bash Scripting
+   Bash Scripting
 
 4. CI/CD Pipelines
 
-Jenkins, GitHub Actions, GitLab CI/CD
+   Jenkins, GitHub Actions, GitLab CI/CD
 
-Automating Build and Deployment
+   Automating Build and Deployment
 
 5. Containers and Orchestration
 
-Docker: Images, Containers, and Dockerfiles
+   Docker: Images, Containers, and Dockerfiles
 
-Kubernetes: Pods, Services, Deployments
+   Kubernetes: Pods, Services, Deployments
 
 6. Cloud Computing
 
-AWS, Azure, Google Cloud
+  AWS, Azure
 
 Infrastructure as Code (Terraform, CloudFormation)
 
 7. Monitoring and Logging
 
-Prometheus, Grafana, ELK Stack
+  Prometheus, Grafana, ELK Stack
 
-Application Performance Monitoring (APM)
+  Application Performance Monitoring (APM)
 
 8. Security and Compliance
 
-DevSecOps Practices
+   DevSecOps Practices
 
-Vulnerability Scanning Tools
+   Vulnerability Scanning Tools
 
 9. Career Guidance
 
-Certifications (AWS, CKA, etc.)
+  Certifications (AWS, CKA, etc.)
 
-Job Search Strategies
+  Job Search Strategies
 
-Interview Preparation
+  Interview Preparation
 
 🎯 **Why Follow This Roadmap?**
 
@@ -80,7 +80,7 @@ Gain insights into trending technologies for 2025 and beyond.
 
 1. Clone this repository:
 
-git clone https://github.com/yourusername/DevOps-Roadmap-2025.git
+   git clone https://github.com/yourusername/DevOps-Roadmap-2025.git
 
 2. Explore the roadmap, tools, and resources.
 
