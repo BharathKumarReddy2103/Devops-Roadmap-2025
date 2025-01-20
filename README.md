@@ -42,25 +42,29 @@ This repository provides a comprehensive roadmap for becoming a successful DevOp
 
 6. Cloud Computing
 
-  AWS, Azure
+   AWS, Azure
 
 7. Infrastructure as Code
    
    Terraform
 
-8. Monitoring and Logging
+8. Configuration Management
 
-  Prometheus, Grafana, ELK Stack
+   Ansible, Chef
+
+9. Monitoring and Logging
+
+   Prometheus, Grafana, ELK Stack
 
   Application Performance Monitoring (APM)
 
-9. Security and Compliance
+10. Security and Compliance
 
    DevSecOps Practices
 
    Vulnerability Scanning Tools
 
-10. Career Guidance
+11. Career Guidance
 
   Certifications (AWS, CKA, etc.)
 
