@@ -44,21 +44,23 @@ This repository provides a comprehensive roadmap for becoming a successful DevOp
 
   AWS, Azure
 
-Infrastructure as Code (Terraform, CloudFormation)
+7. Infrastructure as Code
+   
+   Terraform
 
-7. Monitoring and Logging
+8. Monitoring and Logging
 
   Prometheus, Grafana, ELK Stack
 
   Application Performance Monitoring (APM)
 
-8. Security and Compliance
+9. Security and Compliance
 
    DevSecOps Practices
 
    Vulnerability Scanning Tools
 
-9. Career Guidance
+10. Career Guidance
 
   Certifications (AWS, CKA, etc.)
 
