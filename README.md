@@ -30,7 +30,7 @@ This repository provides a comprehensive roadmap for becoming a successful DevOp
 
 4. CI/CD Pipelines
 
-   Jenkins, GitHub Actions, GitLab CI/CD
+   Jenkins, GitHub Actions, GitLab CI/CD, Azure DevOps
 
    Automating Build and Deployment
 
