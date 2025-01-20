@@ -110,6 +110,7 @@ Check the CONTRIBUTING.md file for more details.
 📬 Stay Connected
 
 LinkedIn: www.linkedin.com/in/bharath-kumar-reddy2103
+Medium: https://medium.com/@nbkumar2103
 
 🌟 **Show Your Support**
 
