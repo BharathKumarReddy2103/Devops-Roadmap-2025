@@ -8,17 +8,17 @@ A **structured learning path** to mastering DevOps in 2025. This roadmap outline
 
 **•	Introduction**
 
-•	1️⃣ DevOps Fundamentals
+•	1️⃣ **DevOps Fundamentals**
 
-•	2️⃣ Cloud Computing (AWS & Azure)
+•	2️⃣ **Cloud Computing (AWS & Azure)**
 
-•	3️⃣ Infrastructure as Code (Terraform)
+•	3️⃣ **Infrastructure as Code (Terraform)**
 
-•	4️⃣ Python for DevOps
+•	4️⃣ **Python for DevOps**
 
-• 5️⃣ Observability & Monitoring
+• 5️⃣ **Observability & Monitoring**
 
-•	6️⃣ AI-Powered DevOps (AIOps)
+•	6️⃣ **AI-Powered DevOps (AIOps)**
 
 **•	Conclusion**
 
