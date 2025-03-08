@@ -29,6 +29,7 @@ A **structured learning path** to mastering DevOps in 2025. This roadmap outline
 DevOps is an ever-evolving field that integrates **software development, operations, automation, and cloud infrastructure** to deliver applications efficiently.
 
 This roadmap **eliminates unnecessary complexity** by focusing on:
+
 ✅ **Core DevOps skills** required for job roles.
 
 ✅ **Practical knowledge** with real-world use cases.
